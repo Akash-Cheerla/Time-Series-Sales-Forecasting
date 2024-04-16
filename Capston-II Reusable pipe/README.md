@@ -36,7 +36,7 @@ ForecastWizard is a user-friendly web application designed to assist users in fo
 
 ## Screenshots
 
-![Forecast Wizard] (Images\ForecastWizard.png "Forecast Wizard")
+![Forecast Wizard] (Capston-II%20Reusable%20pipe/Images/ForecastWizard.png "Forecast Wizard")
 
 ## Requirements
 
