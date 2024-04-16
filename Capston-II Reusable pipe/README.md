@@ -9,6 +9,10 @@ ForecastWizard is a user-friendly web application designed to assist users in fo
 - Display the forecasted sales data for the next 10 instances.
 - Simple and intuitive user interface.
 
+## Dataset Requirements
+
+- CSV file containing date and sales columns for forecasting.
+
 ## Contributors
 
 - [Mohammad Muneeb Nawal](https://github.com/muneeb-nawal) (0811582)
